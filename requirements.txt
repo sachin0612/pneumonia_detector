@@ -1,6 +1,2 @@
 streamlit
-matplotlib
-seaborn
-urlextract
-wordcloud
-pandas
+tensorflow==2.8
